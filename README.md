@@ -1,52 +1,37 @@
 # Ecommerce SQL Analytics Dashboard
 
 ## Project Overview
-This project analyzes ecommerce sales data using:
-
-- SQL (MySQL)
-- Power BI
-- Data Analytics Techniques
-
-The dashboard provides insights into:
-- Total Sales
-- Monthly Sales Trends
-- Profit Analysis
-- Regional Performance
-- Category-wise Sales
-- Customer Insights
-
----
+This project analyzes ecommerce sales data using MySQL and Power BI.
 
 ## Tools Used
-- MySQL Workbench
+- MySQL
 - Power BI
-- CSV Dataset
-- SQL Queries
-
----
+- SQL
+- Data Analytics
 
 ## Key Insights
-- Technology category generated highest sales
-- Copiers produced highest profit
-- Sales peaked during November and December
-- Western region showed strong performance
-
----
+- Total Sales Analysis
+- Monthly Sales Trends
+- Category-wise Sales
+- Profit Analysis
+- Regional Performance
+- Customer Insights
 
 ## Dashboard Preview
 
-(Add screenshots here)
+![Dashboard](images/dashboard.png)
 
----
+## SQL Queries
+Queries used for analysis are available inside:
+sql_queries/
 
-## SQL Queries Included
-- Total Sales
-- Top Customers
-- Monthly Sales Trend
-- Category Profit Analysis
-- Window Functions
+## Dashboard File
+Power BI dashboard file:
+dashboard/ecommerce_dashboard.pbix
 
----
+## Dataset
+Dataset used:
+dataset/sample-superstore.csv
 
 ## Author
 Pranjay Kumar
