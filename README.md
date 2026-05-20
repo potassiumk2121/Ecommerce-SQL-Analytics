@@ -19,7 +19,7 @@ This project analyzes ecommerce sales data using MySQL and Power BI.
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard_overview.png)
 
 ## SQL Queries
 Queries used for analysis are available inside:
